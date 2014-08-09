@@ -39,12 +39,12 @@ There are 8 files. The original data needs to be downloaded into this directory
 and unizipped to make the R scripts work. Also, set your working (i.e., setwd) to this path.
 
 ```
-  plot1.R - Script for Plot 1
+  plot1.R   - Script for Plot 1
   plot1.png - plot1.R output
-  plot2.R - Script for Plot 2
+  plot2.R   - Script for Plot 2
   plot2.png - plot2.R output
-  plot3.R - Script for Plot 3
+  plot3.R   - Script for Plot 3
   plot3.png - plot3.R output
-  plot4.R - Script for Plot 4
+  plot4.R   - Script for Plot 4
   plot4.png - plot4.R output
 ```
