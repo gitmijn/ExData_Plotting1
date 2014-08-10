@@ -49,5 +49,8 @@ and unizipped to make the R scripts work. Also, set your working (i.e., setwd) t
   plot4.png - plot4.R output
 ```
 
-These images are created
+## Plots
 ![Plot 1](plot1.png)
+![Plot 2](plot2.png)
+![Plot 3](plot3.png)
+![Plot 4](plot4.png)
