@@ -50,4 +50,4 @@ and unizipped to make the R scripts work. Also, set your working (i.e., setwd) t
 ```
 
 These images are created
-[Plot 1](plot1.png)
+![Plot 1](plot1.png)
