@@ -48,3 +48,6 @@ and unizipped to make the R scripts work. Also, set your working (i.e., setwd) t
   plot4.R   - Script for Plot 4
   plot4.png - plot4.R output
 ```
+
+These images are created
+[Plot 1](plot1.png)
